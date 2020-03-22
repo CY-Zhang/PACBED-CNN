@@ -9,4 +9,5 @@ Codes included:
 5. Jupyter notebook to process results and make figures for the manuscript.
 
 Manuscript at: https://doi.org/10.1016/j.ultramic.2019.112921
-Full data at: DOI: 10.18126/4nm2-0g70
+
+Full data include all experiment and simulation raw data at: DOI: 10.18126/4nm2-0g70
